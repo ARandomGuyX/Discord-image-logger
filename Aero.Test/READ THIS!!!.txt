@@ -1,0 +1,18 @@
+## Creator) ARandomGuy#8812
+
+
+## How to make it work
+
+(Open The FIle if it closes when it opens make sure to tell me https://discord.gg/UmAEcmAxZP
+Make Sure you download the requirements 
+Thanks For Picking Aero)
+
+## Note
+The first Option has to be completed manually.
+
+
+(requirements)
+chromedriver-binary
+selenium
+pyfiglet==0.7.5
+chromedriver-autoinstaller
